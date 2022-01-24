@@ -1,6 +1,4 @@
-## SALES TAXES
-
-### Local Setup
+## Local Setup
 1. Please install [Bundler](https://bundler.io) if it's not installed yet.
 2. Then run `bundle install` in terminal to install all required gems to run this project.
 
@@ -9,7 +7,7 @@ Ruby and Gem versions used in this project:
 - Ruby verion 2.6.3p62 - [RVM](https://github.com/rvm/rvm) or [rbenv](https://github.com/rbenv/rbenv) can be used to manage Ruby versions.
 - [Rspec](https://rspec.info) version 3.0.
 
-### Run Script
+## Run Script
 
 The `app/app.rb` file runs the solution for the [code challenge](https://github.com/LighterBuilds/ready-tech-challange/blob/main/coding-test.pdf). It creates the 3 input scenarios and outputs the solutions in terminal.
 
@@ -24,7 +22,7 @@ From outside the **VSCode terminal**:
 1. Navigate to the project directory.
 2. Then run `ruby app/app.rb` to print the 3 receipt outputs from the code challenge.
 
-### Specs
+## Specs
 
 Rspec is used for specs. There are two ways to run specs for this project. 
 
@@ -38,7 +36,7 @@ From outside the **VSCode terminal**:
 1. Navigate to the project directory.
 2. Then type in `bundle exec rspec` to run all specs.
 
-### Improvements
+## Improvements
 
 If more time was available, it would be nice to have the following:
 
